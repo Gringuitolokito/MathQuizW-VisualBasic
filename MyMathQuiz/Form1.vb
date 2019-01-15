@@ -76,7 +76,6 @@
         dividedRightLabel.Text = divisor.ToString()
         quotient.Value = 0
 
-
         ' Start the timer.
         timeLeft = 30
         timeLabel.Text = "30 seconds"
