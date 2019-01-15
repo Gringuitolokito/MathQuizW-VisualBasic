@@ -1,3 +1,1 @@
-# MyMathQuiz
-CIT365
-Assignment #2
+# MathQuiz done with Visual Basic
